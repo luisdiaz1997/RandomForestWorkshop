@@ -1,0 +1,15 @@
+name: forest
+channels:
+  - defaults
+  - r
+dependencies:
+  - python=3.8
+  - numpy
+  - r-irkernel
+  - jupyterlab
+  - pandas
+  - scikit-learn
+  - r-randomforest
+  - pip:
+        - matplotlib
+        - seaborn
