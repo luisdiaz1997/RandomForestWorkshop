@@ -10,6 +10,7 @@ dependencies:
   - pandas
   - scikit-learn
   - r-randomforest
+  - pip
   - pip:
         - matplotlib
         - seaborn
