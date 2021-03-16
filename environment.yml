@@ -12,6 +12,7 @@ dependencies:
   - r
   - r-essentials
   - r-party
+  - r-e1071
   - pip
   - pip:
         - matplotlib
