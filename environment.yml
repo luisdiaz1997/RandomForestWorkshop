@@ -2,6 +2,7 @@ name: forest
 channels:
   - defaults
   - r
+  - conda-forge
 dependencies:
   - python=3.8
   - numpy
@@ -13,6 +14,7 @@ dependencies:
   - r-essentials
   - r-party
   - r-e1071
+  - r-mlmetrics
   - pip
   - pip:
         - matplotlib
