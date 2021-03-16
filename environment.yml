@@ -9,7 +9,9 @@ dependencies:
   - jupyterlab
   - pandas
   - scikit-learn
-  - r-randomforest
+  - r
+  - r-essentials
+  - r-party
   - pip
   - pip:
         - matplotlib
